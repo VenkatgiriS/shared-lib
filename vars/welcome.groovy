@@ -1,3 +1,3 @@
 def hi(name) {
-    println("Hello ${name}!")
+    echo "Hello ${name}!"
 }
