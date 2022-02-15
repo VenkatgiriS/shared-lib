@@ -1,3 +1,3 @@
-def hi() {
-    println("Hello Venkat!")
+def hi(name) {
+    println("Hello ${name}!")
 }
